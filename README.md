@@ -13,4 +13,7 @@ Wymagania
 Obsługa
 ===========
 
+Wymaga uzyskania pliku ```client_secrets.json``` z 
+https://developers.google.com/api-client-library/python/guide/aaa_client_secrets
+
 ```python3 src/parser.py --nototwanie 1810```
